@@ -15,4 +15,3 @@ run the test file
 ```
 python test.py
 ```
-# DIBS_Subgraph_Test
