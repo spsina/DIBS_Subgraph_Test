@@ -7,7 +7,7 @@ checks that DIBS subgraph can calculate a swap route for all tokens in Thena.fi 
 clone the repo, install requirements.
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 run the test file
